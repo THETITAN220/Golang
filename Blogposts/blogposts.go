@@ -1,7 +1,7 @@
-package fileops
+package blogposts
 
 import (
-	blogposts "github.com/quii/learn-go-with-tests/reading-files"
+	blogposts "github.com/quii/learn-go-with-tests/tree/main/reading-files"
 	"testing"
 	"testing/fstest"
 )

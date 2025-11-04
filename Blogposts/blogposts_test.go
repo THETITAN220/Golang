@@ -1,8 +1,10 @@
-package fileops
+package blogposts_test
 
 import (
 	"testing"
 	"testing/fstest"
+
+	"github.com/THETITAN220/blogposts"
 )
 
 func TestNewBlogPosts(t *testing.T) {
