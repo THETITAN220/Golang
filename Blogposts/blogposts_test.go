@@ -1,10 +1,9 @@
 package blogposts_test
 
 import (
+	blogposts "github.com/quii/learn-go-with-tests/reading-files"
 	"testing"
 	"testing/fstest"
-
-	"github.com/THETITAN220/blogposts"
 )
 
 func TestNewBlogPosts(t *testing.T) {
